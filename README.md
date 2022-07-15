@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/diskette42"><img src="https://api.daily.dev/devcards/f200ddf4d2c4402a864deab3e9f38fb8.png?r=xl1" width="400" alt="Supatat Chanwuttinant's Dev Card"/></a>
 <!--
 **diskette42/diskette42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
