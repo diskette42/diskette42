@@ -28,9 +28,9 @@
 
 ### BACK-END:
 
--Nodejs, Express
+-Nodejs, Express, PrismaORM
 
--Nestjs
+-Nestjs, TypeORM
 
 
 ### DATABASE:
