@@ -4,37 +4,62 @@
 
 My almost 2 years of experience Tech Stacks:
 
+
 FRONT-END:
+
 -Javascript, Typescript, HTML, CSS3
+
 -React, Nextjs, Redux, Redux Toolkit, React Context, React Hooks, React Router
+
 -Nuxt, Vue (used to, for a year ago)
+
 -Tailwind, Bootstrap, Material UI, Ant design, Styled-components, emotion 
 
+
 WEB3 & Blockchain & Smart Contract:
+
 -Solidity
+
 -Etherjs
+
 -Web3js
+
 -MoralisSDK
 
 BACK-END:
+
 -Nodejs, Express
+
 -Nestjs
 
+
 DATABASE:
+
 -MongoDB, PostgresQL
 
+
 DEVOPS:
+
 -Docker, Kubernetes
 
+
 CLOUD:
+
 -GCP
+
 -Cloudflare
+
 -Vercel
 
+
 const My Scored out of 100% = () => {
+
   const frontend = 80%;
+  
   const backend = 20%;
+  
   return frontend + backend;
+  
 }
 
 
