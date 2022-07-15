@@ -2,10 +2,10 @@
 
 <a align="left" href="https://app.daily.dev/diskette42"><img src="https://api.daily.dev/devcards/f200ddf4d2c4402a864deab3e9f38fb8.png?r=xl1" width="300" alt="Supatat Chanwuttinant's Dev Card"/></a>
 
-###My almost 2 years of experience Tech Stacks:
+### My almost 2 years of experience Tech Stacks:
 
 
-###FRONT-END:
+### FRONT-END:
 
 -Javascript, Typescript, HTML, CSS3
 
@@ -16,7 +16,7 @@
 -Tailwind, Bootstrap, Material UI, Ant design, Styled-components, emotion 
 
 
-###WEB3 & Blockchain & Smart Contract:
+### WEB3 & Blockchain & Smart Contract:
 
 -Solidity
 
@@ -26,24 +26,24 @@
 
 -MoralisSDK
 
-###BACK-END:
+### BACK-END:
 
 -Nodejs, Express
 
 -Nestjs
 
 
-###DATABASE:
+### DATABASE:
 
 -MongoDB, PostgresQL
 
 
-##DEVOPS:
+### DEVOPS:
 
 -Docker, Kubernetes
 
 
-###CLOUD:
+### CLOUD:
 
 -GCP
 
